@@ -11,3 +11,7 @@ num = number1 - 6;
 //Multiplicação
 
 num = number1 * number2;
+
+//Divisão
+
+num = number1 / number2;
