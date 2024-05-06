@@ -6,4 +6,4 @@ var number2 = 2;
 var num = number1 + number2;
 
 //Subtração
-num = number1 - number2; 
+num = number1 - 6;
