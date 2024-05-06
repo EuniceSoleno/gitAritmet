@@ -12,4 +12,8 @@ num = number1 - 6;
 
 num = number1 * 4;
 
+//divisao
+num = number2/ number1;
+
+
 
