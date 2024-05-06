@@ -7,3 +7,7 @@ var num = number1 + number2;
 
 //Subtração
 num = number1 - 6;
+
+//Multiplicação
+
+num = number1 * number2;
